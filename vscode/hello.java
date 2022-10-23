@@ -5,7 +5,8 @@ public class hello {
     public static void main(String[] args){
         int a = 30;
         int b = 10;
-        int result = a * b;
+        int c = 300;
+        int result = a * b + c;
 
         System.out.println(result);
     }    
